@@ -1,0 +1,171 @@
+2023-05-17 17:28:58,015 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 17:29:00,456 ERROR 'WebDriver' object has no attribute 'find_element_by_id'
+2023-05-17 17:33:00,758 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 17:33:02,084 ERROR 'WebDriver' object has no attribute 'find_element_by_id'
+2023-05-17 17:34:20,387 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 17:34:21,706 ERROR 'WebDriver' object has no attribute 'find_element_by_id'
+2023-05-17 17:58:00,999 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 17:58:03,657 ERROR 'WebDriver' object has no attribute 'find_element_by_id'
+2023-05-17 18:03:37,087 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:03:49,854 ERROR Login failed
+2023-05-17 18:03:49,855 ERROR Login failed
+2023-05-17 18:07:56,746 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:07:58,278 ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="session_key"]"}
+  (Session info: headless chrome=113.0.5672.126)
+Stacktrace:
+#0 0x55bf81962133 <unknown>
+#1 0x55bf81696966 <unknown>
+#2 0x55bf816d30dc <unknown>
+#3 0x55bf816d3211 <unknown>
+#4 0x55bf8170d6c4 <unknown>
+#5 0x55bf816f2bfd <unknown>
+#6 0x55bf8170b1c7 <unknown>
+#7 0x55bf816f29a3 <unknown>
+#8 0x55bf816c746a <unknown>
+#9 0x55bf816c855e <unknown>
+#10 0x55bf81921cae <unknown>
+#11 0x55bf819258fe <unknown>
+#12 0x55bf8192ef20 <unknown>
+#13 0x55bf81926923 <unknown>
+#14 0x55bf818f9c0e <unknown>
+#15 0x55bf81949b08 <unknown>
+#16 0x55bf81949c97 <unknown>
+#17 0x55bf8195a113 <unknown>
+#18 0x7f5f1ce94b43 <unknown>
+
+2023-05-17 18:09:26,929 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:09:43,939 ERROR Login failed
+2023-05-17 18:09:43,939 ERROR Login failed
+2023-05-17 18:15:55,265 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:15:56,841 ERROR type object 'By' has no attribute 'id'
+2023-05-17 18:18:08,067 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:18:09,730 ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="session_key"]"}
+  (Session info: headless chrome=113.0.5672.126)
+Stacktrace:
+#0 0x55eda6ec1133 <unknown>
+#1 0x55eda6bf5966 <unknown>
+#2 0x55eda6c320dc <unknown>
+#3 0x55eda6c32211 <unknown>
+#4 0x55eda6c6c6c4 <unknown>
+#5 0x55eda6c51bfd <unknown>
+#6 0x55eda6c6a1c7 <unknown>
+#7 0x55eda6c519a3 <unknown>
+#8 0x55eda6c2646a <unknown>
+#9 0x55eda6c2755e <unknown>
+#10 0x55eda6e80cae <unknown>
+#11 0x55eda6e848fe <unknown>
+#12 0x55eda6e8df20 <unknown>
+#13 0x55eda6e85923 <unknown>
+#14 0x55eda6e58c0e <unknown>
+#15 0x55eda6ea8b08 <unknown>
+#16 0x55eda6ea8c97 <unknown>
+#17 0x55eda6eb9113 <unknown>
+#18 0x7f1a44894b43 <unknown>
+
+2023-05-17 18:18:49,846 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:18:51,483 ERROR name 'session_key' is not defined
+2023-05-17 18:19:05,814 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:19:07,443 ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="session_key"]"}
+  (Session info: headless chrome=113.0.5672.126)
+Stacktrace:
+#0 0x55afe0767133 <unknown>
+#1 0x55afe049b966 <unknown>
+#2 0x55afe04d80dc <unknown>
+#3 0x55afe04d8211 <unknown>
+#4 0x55afe05126c4 <unknown>
+#5 0x55afe04f7bfd <unknown>
+#6 0x55afe05101c7 <unknown>
+#7 0x55afe04f79a3 <unknown>
+#8 0x55afe04cc46a <unknown>
+#9 0x55afe04cd55e <unknown>
+#10 0x55afe0726cae <unknown>
+#11 0x55afe072a8fe <unknown>
+#12 0x55afe0733f20 <unknown>
+#13 0x55afe072b923 <unknown>
+#14 0x55afe06fec0e <unknown>
+#15 0x55afe074eb08 <unknown>
+#16 0x55afe074ec97 <unknown>
+#17 0x55afe075f113 <unknown>
+#18 0x7f42ad894b43 <unknown>
+
+2023-05-17 18:19:27,704 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:19:42,147 ERROR Login failed
+2023-05-17 18:19:42,147 ERROR Login failed
+2023-05-17 18:22:49,982 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:22:51,363 ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":".login-email"}
+  (Session info: headless chrome=113.0.5672.126)
+Stacktrace:
+#0 0x559ef0622133 <unknown>
+#1 0x559ef0356966 <unknown>
+#2 0x559ef03930dc <unknown>
+#3 0x559ef0393211 <unknown>
+#4 0x559ef03cd6c4 <unknown>
+#5 0x559ef03b2bfd <unknown>
+#6 0x559ef03cb1c7 <unknown>
+#7 0x559ef03b29a3 <unknown>
+#8 0x559ef038746a <unknown>
+#9 0x559ef038855e <unknown>
+#10 0x559ef05e1cae <unknown>
+#11 0x559ef05e58fe <unknown>
+#12 0x559ef05eef20 <unknown>
+#13 0x559ef05e6923 <unknown>
+#14 0x559ef05b9c0e <unknown>
+#15 0x559ef0609b08 <unknown>
+#16 0x559ef0609c97 <unknown>
+#17 0x559ef061a113 <unknown>
+#18 0x7f632ba94b43 <unknown>
+
+2023-05-17 18:24:30,810 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:24:32,301 ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="session_passsword"]"}
+  (Session info: headless chrome=113.0.5672.126)
+Stacktrace:
+#0 0x55e28688e133 <unknown>
+#1 0x55e2865c2966 <unknown>
+#2 0x55e2865ff0dc <unknown>
+#3 0x55e2865ff211 <unknown>
+#4 0x55e2866396c4 <unknown>
+#5 0x55e28661ebfd <unknown>
+#6 0x55e2866371c7 <unknown>
+#7 0x55e28661e9a3 <unknown>
+#8 0x55e2865f346a <unknown>
+#9 0x55e2865f455e <unknown>
+#10 0x55e28684dcae <unknown>
+#11 0x55e2868518fe <unknown>
+#12 0x55e28685af20 <unknown>
+#13 0x55e286852923 <unknown>
+#14 0x55e286825c0e <unknown>
+#15 0x55e286875b08 <unknown>
+#16 0x55e286875c97 <unknown>
+#17 0x55e286886113 <unknown>
+#18 0x7f9f0c494b43 <unknown>
+
+2023-05-17 18:25:34,240 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:25:35,662 ERROR Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="session_key"]"}
+  (Session info: headless chrome=113.0.5672.126)
+Stacktrace:
+#0 0x55fdf1632133 <unknown>
+#1 0x55fdf1366966 <unknown>
+#2 0x55fdf13a30dc <unknown>
+#3 0x55fdf13a3211 <unknown>
+#4 0x55fdf13dd6c4 <unknown>
+#5 0x55fdf13c2bfd <unknown>
+#6 0x55fdf13db1c7 <unknown>
+#7 0x55fdf13c29a3 <unknown>
+#8 0x55fdf139746a <unknown>
+#9 0x55fdf139855e <unknown>
+#10 0x55fdf15f1cae <unknown>
+#11 0x55fdf15f58fe <unknown>
+#12 0x55fdf15fef20 <unknown>
+#13 0x55fdf15f6923 <unknown>
+#14 0x55fdf15c9c0e <unknown>
+#15 0x55fdf1619b08 <unknown>
+#16 0x55fdf1619c97 <unknown>
+#17 0x55fdf162a113 <unknown>
+#18 0x7f4297694b43 <unknown>
+
+2023-05-17 18:30:49,661 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 18:30:51,121 ERROR 'WebDriver' object has no attribute 'find_element_by_name'
+2023-05-17 19:18:26,526 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 19:18:28,031 ERROR 'WebDriver' object has no attribute 'find_element_by_name'
+2023-05-17 19:19:01,826 INFO Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-17 19:19:03,200 ERROR 'WebDriver' object has no attribute 'find_element_by_name'
